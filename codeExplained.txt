@@ -1,0 +1,32 @@
+
+
+//Made an array above in which we stored our hours as a string
+
+ //Made another array in in which we stored the information about each store
+
+
+
+
+
+
+
+//Function facilitates the the getting, creating & appending of the store totals and looping through pertanent code
+//Fetches the HTML element with the ID of 'tfoot' and asigns it to tableFoot var
+//Creates a table row elemnt in the DOM, assigns to tableRow var
+// We take the 'tr'(which is in tableRow var) and append or put in the page
+//Make a table data element, simalar to what is described above
+//Giving data to the table data element, in this case a string 'Totals'
+//Appending the child element we just worked with to our TableRow
+
+//Need to start some variables to hold what will be looped through
+
+
+ //For loop is iterating through our storeHours on line 4
+//Setting the previously made variable to 0, guess I could have done this earlier?
+//Made td, assiged it to the variable, THE ABOVE 2 ACTIONS WILL HAPPEN FOR EVERY STORE HOUR
+
+//Double check if i's need to be j's
+
+
+
+
