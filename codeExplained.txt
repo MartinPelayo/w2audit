@@ -25,7 +25,101 @@
 //Setting the previously made variable to 0, guess I could have done this earlier?
 //Made td, assiged it to the variable, THE ABOVE 2 ACTIONS WILL HAPPEN FOR EVERY STORE HOUR
 
-//Double check if i's need to be j's
+I think that I have to use 'j's in the place of 'i's because i already defined 'i'
+Add whats in CookiesPurchased/storeInfo is added to hourTotal when loop runs
+What I think the loop does is it itterates through store hours, creating td elements, further more, it itterates through storeInfo
+adding whats stated to hourTotal, finally adding adding hour total to daily total after the loop on line 31
+
+
+
+
+DialyTodal finally is going onto the page
+
+
+
+
+Simalar as the above process, making the head row 
+
+
+
+
+
+
+
+Itterates through storeHours
+basically creates a 'th'for every store hour I think
+Adds the content of storeHours or index there of to the 'tr' above
+puts all this on the page
+
+Creates the 'th' for 'daily location total text'
+Adds the actually text ccontent to the element
+Appends the textual data to the page
+
+Constructor function, provides the categories needed for the for the stores
+the keyword this, allows us to acces the perameters of the store categories
+And I forget, but I think by assigning the the parameters what we have here
+allows for further utilization of the properties later...
+
+
+
+
+
+Prototype is still mysterious, but evidently the function will round up and down
+our min and maxCustomer when we need it to, its not in a loop
+
+
+
+
+
+Uses the Prototype of storeCategories? to adda function on or w/ the Prototype
+
+
+Itterates through storeHours
+In order to multiply the rounded cookiesCount data and push or put that data on 
+
+Adds cookiesCount to cookiesPurchasedTotal
+
+
+I think we are using the Prototype of storeCategories again and adding a funciton again
+calls calculateCookiesPurchased by utalizing this keyword
+I think same deal as what has happend above a few times now get,creat,appned
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
